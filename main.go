@@ -124,6 +124,8 @@ func imgSelScreen(_ fyne.Window) fyne.CanvasObject {
 func main() {
 	os.Setenv("FYNE_SCALE", "1")
 	a := app.New()
+	a.SetIcon(resourceIconPng)
+	a.Settings().SetTheme(theme.LightTheme())
 
 	w := a.NewWindow("go-chart using fyne")
 	w.Resize(fyne.NewSize(1100, 640))

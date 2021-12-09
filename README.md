@@ -4,24 +4,27 @@ go-chart using fyne
   
 ## some screen capture  
   
-### PieChart  
+### PieChart on win10
 ![PieChart](image/PieChart.png)  
-  
-### StockAnalysis  
+
+### PieChart on LUbuntu21.10 amd64
+![PieChart_LUbuntu21.10_amd64](image/PieChart_LUbuntu21.10_amd64.png)    
+
+### StockAnalysis on win10
 ![StockAnalysis](image/StockAnalysis.png)    
 
   
-### StackedBar  
+### StackedBar on win10  
 ![StackedBar](image/StackedBar.png)   
   
-### Annotation  
+### Annotation on win10 
 ![Annotation](image/Annotation.png)   
   
-### BenchmarkLine  
+### BenchmarkLine on win10  
 ![BenchmarkLine](image/BenchmarkLine.png)   
   
-### LinearRegression  
+### LinearRegression on win10  
 ![LinearRegression](image/LinearRegression.png)    
 
-### BarChart  
+### BarChart on win10  
 ![BarChart](image/BarChart.png)   
